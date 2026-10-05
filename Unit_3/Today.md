@@ -49,9 +49,9 @@ public void mystery(int n) {
 
 ## Image Test sans HTML
 
-![This is a test image](./Unit_3/assets/test.png)
+![This is a test image](./assets/test.png)
 
 
 ## Image Test with HTML
-<img src="./Unit_3/assets/test.png" alt="alt name" width="200"/>
+<img src="./assets/test.png" alt="alt name" width="200"/>
 
