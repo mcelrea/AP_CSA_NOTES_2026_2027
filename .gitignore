@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore entire Obsidian configuration directory
+.obsidian/
+
+# (Optional) If you want to keep plugin list/settings but hide workspace layouts:
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
